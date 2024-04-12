@@ -1,3 +1,6 @@
 [submodule "libsvm"]
 	path = libsvm
 	url = https://github.com/cjlin1/libsvm.git
+[submodule "CUDA"]
+	path = CUDA
+	url = https://github.com/MKLab-ITI/CUDA
